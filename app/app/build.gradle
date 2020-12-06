@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.hung.myapplication"
+        applicationId "com.hung.app"
         minSdkVersion 26
         targetSdkVersion 30
         versionCode 1

@@ -1,4 +1,4 @@
-package com.hung.myapplication;
+package com.hung.app;
 
 import org.junit.Test;
 
